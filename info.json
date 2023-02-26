@@ -1,0 +1,109 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://chishenme.xyz/",
+            "path": "index.html",
+            "saved": true,
+            "size": 1564,
+            "children": [
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=UA-71978237-1",
+                    "saved": false
+                },
+                {
+                    "url": "https://code.jquery.com/jquery-3.6.1.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://chishenme.xyz/random.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://chishenme.xyz/three_punch_combo.js",
+                    "saved": false
+                },
+                {
+                    "url": "http://chishenme.xyz/default.css",
+                    "path": "css/default.css",
+                    "saved": true,
+                    "size": 1470
+                }
+            ]
+        }
+    ],
+    "alias": "chishenme-xyz-uup71vs2",
+    "info": {
+        "remark": [],
+        "title": "中午吃什么",
+        "domain": "chishenme.xyz",
+        "origin": "http://chishenme.xyz",
+        "ip": "172.67.153.84",
+        "main": "index.html",
+        "url": "http://chishenme.xyz/",
+        "totalSize": "3.03 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://chishenme.xyz/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://chishenme.xyz/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Sun, 26 Feb 2023 09:33:36 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Fri, 17 Feb 2023 09:36:10 GMT",
+                "access-control-allow-origin": "*",
+                "expires": "Sun, 26 Feb 2023 08:05:48 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "MISS",
+                "x-github-request-id": "7DC8:07AB:68BCB3:70E552:63FB1084",
+                "via": "1.1 varnish",
+                "age": "0",
+                "x-served-by": "cache-nrt-rjtf7700068-NRT",
+                "x-cache": "HIT",
+                "x-cache-hits": "1",
+                "x-timer": "S1677404016.418456,VS0,VE211",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "2436d78b371e53ebb0dbec5bd531cd465b7108d2",
+                "cf-cache-status": "DYNAMIC",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=0YDqhpXu%2BuvYX24uxpkEljzDs6HwJowEpU7pEBSkD9cjxXplSEjitPVD5API6tgHsEVJqiqlIdC3wNIN8Grl7auQk0gAc3rxHjfv8vYvd24Gum8B0ic4RYXxVmt%2BSOCe\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "79f7ae1e8f6280dd-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2023-02-26T09:33:36.364Z",
+            "end": "2023-02-26T09:33:36.892Z"
+        }
+    },
+    "options": {
+        "url": "http://chishenme.xyz/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "css",
+            "js"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
